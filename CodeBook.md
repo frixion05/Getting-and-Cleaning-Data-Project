@@ -30,7 +30,7 @@ For each record in the dataset it is provided:
 
 ### Variables
 - Data from the downloads are stored in these variables: `x_train`, `y_train`, `x_text`, `y_test`, `subject_train` and `subject_test`. 
-- The list of all features is stored in `features` taken from features.txt while the link of class labels with their activity name is stored in `activityLabels`.  
+- The list of all features is stored in `features` taken from `features.txt` while the link of class labels with their activity name is stored in `activityLabels`.  
 
 
 ## Analysis
