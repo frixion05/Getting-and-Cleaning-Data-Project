@@ -55,4 +55,4 @@ Done in #s 1 and 2.
 
 5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 Create tidy data.  
-Write to a csv txt file.
+Write to a csv txt file. 
